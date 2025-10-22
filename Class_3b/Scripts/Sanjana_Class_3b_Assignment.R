@@ -112,3 +112,10 @@ levels(sample_groups)
 
 # Save R script in scripts folder with name "Your Name_class_3b_Assignment.RData"
 save.image(file = "Scripts/Sanjana_Class_3b_Assignment.RData")
+
+#### Save Processed Data for Next Class (3C) ####
+# Save processed data and metadata
+save(processed_data, phenotype_data, feature_data, groups,
+     file = "Results/GSE79973.RData")
+
+cat("✅ Processed data successfully saved in 'Results/GSE79973.RData'\n")
