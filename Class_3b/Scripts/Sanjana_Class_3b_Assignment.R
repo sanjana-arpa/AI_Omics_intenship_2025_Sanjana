@@ -118,4 +118,5 @@ save.image(file = "Scripts/Sanjana_Class_3b_Assignment.RData")
 save(processed_data, phenotype_data, feature_data, groups,
      file = "Results/GSE79973.RData")
 
-cat("✅ Processed data successfully saved in 'Results/GSE79973.RData'\n")
+cat("Processed data successfully saved in 'Results/GSE79973.RData'\n")
+
