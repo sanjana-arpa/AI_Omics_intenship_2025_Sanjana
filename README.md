@@ -4,7 +4,7 @@ This repository contains my work during the AI and Omics Research Internship (20
 
 
 **Module I: R Basic Operations**
- Covers basics of R programing and how to perform basic functions for data analysis in R, such as
+Covers basics of R programing and how to perform basic functions for data analysis in R, such as
 - Creating project folders and subdirectories for organized workflow in R.
 - Imported the patient_info.csv dataset into R.
 - Exploring different data types in R.
