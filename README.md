@@ -16,3 +16,10 @@ Covers basics of R programing and how to perform basic functions for data analys
 - essential functions such as if, if...else loops for data analysis
 
 
+**Class 3B: Microarray Data Preprocessing in R**
+Covers preprocessing of raw microarray data in R for downstream analysis using steps like:
+- Installation of Bioconductor package in R
+- RMA (Robust Multiarray Average) Normalization of raw data
+- Quality check before and after normalization using arrayQuality package
+- Low variance probe filtering
+- Converting categorical data into factors to create groups (e.g. normal vs cancer)
