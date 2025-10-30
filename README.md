@@ -47,19 +47,11 @@ Covers microarray data analysis on the preprocessed data from Class_3B.
   		
 
 **Dataset Information:**
-
-**GEO Accession:** GSE8671
-
-**Source:** NCBI Gene Expression Omnibus (GEO)
-
-**Title:** Transcriptome profile of human colorectal adenomas
-
-**Organism:** _Homo sapiens_
-
-**Experiment type:**	Expression profiling by array
-
-**Disease Type:** Colorectal Cancer
-
-**Samples:** 64 human colonic tissue samples (32 normal mucosa and 32 adenoma tissues)
-
-**Platform:** Affymetrix Human Genome U133 Plus 2.0 Array (GPL570)
+- **GEO Accession:** GSE8671
+- **Source:** NCBI Gene Expression Omnibus (GEO)
+- **Title:** Transcriptome profile of human colorectal adenomas
+- **Organism:** _Homo sapiens_
+- **Experiment type:**	Expression profiling by array
+- **Disease Type:** Colorectal Cancer
+- **Samples:** 64 human colonic tissue samples (32 normal mucosa and 32 adenoma tissues)
+- **Platform:** Affymetrix Human Genome U133 Plus 2.0 Array (GPL570)
